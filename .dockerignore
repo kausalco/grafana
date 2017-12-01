@@ -1,0 +1,6 @@
+/vendor
+/tmp
+.git
+/dist
+/docker
+/node_modules
